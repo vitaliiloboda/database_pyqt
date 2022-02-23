@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:sqlite:C:\Users\VitaliiLoboda\Code\Database_pyqt\lesson_3\server_base.db3</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="server_base [2]" uuid="c9ada250-c420-4501-80b6-36a9322bec9d">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\VitaliiLoboda\Code\Database_pyqt\lesson_4\server_base.db3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
